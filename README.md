@@ -20,7 +20,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ## Description / Brief
 
-View
+<img src="image.png" alt="drawing" width="500" height="400"/>
+
 ![Alt text](ezgif.com-video-to-gif.gif)
 
 ## Technical Documentation
