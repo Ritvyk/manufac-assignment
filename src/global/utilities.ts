@@ -90,8 +90,13 @@ const calculateMedian = (
     keyValueArray.push([key, reducedData[key]]);
   }
   const sortedData = keyValueArray.sort((x: any, y: any) => {
-    return x[1] - y[1];
+    return x[0] - y[0];
   });
+
+  let str = [];
+  for (let i in sortedData) {
+    str.push(sortedData[i][0]);
+  }
 
   if (sortedData.length % 2 === 0) {
     // array is of even length
