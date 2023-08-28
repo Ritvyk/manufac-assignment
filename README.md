@@ -20,7 +20,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ## Description / Brief
 
-<img src="image.png" alt="drawing" width="500" height="400"/>
+<img src="stats.png" alt="drawing" width="500" height="400"/>
 
 ## Technical Documentation
 
